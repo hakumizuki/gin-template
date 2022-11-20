@@ -1,0 +1,5 @@
+db:
+  postgres_addr: "5432"
+  postgres_user: "postgres"
+  postgres_password: "postgres"
+  postgres_addr: "postgres"
